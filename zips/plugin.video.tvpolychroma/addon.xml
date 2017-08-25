@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tvpolychroma" name="TV Polychroma" version="0.0.2" provider-name="Polychroma, LLC.">
+<addon id="plugin.video.tvpolychroma" name="TV Polychroma" version="0.0.3" provider-name="Polychroma, LLC.">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
@@ -9,13 +9,13 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Real life. True grime.</summary>
-		<description lang="en">The official Kodi add-on for TV Polychroma.</description>
+		<summary lang="en">Real trash. True grime.</summary>
+		<description lang="en">TV Polychroma is a 24/7 webTV channel dedicated to the finest trash TV available online.</description>
 		<platform>all</platform>
-		<forum>http://polychroma.co</forum>
-		<website>http://polychroma.co</website>
+		<forum>http://www.noobsandnerds.com/support</forum>
+		<website>www.noobsandnerds.com</website>
 		<news></news>
-		<genre>movies,tvshows,canadian,uk,usa</genre>
+		<genre>comedy,documentary,movies,tvshows,canadian,uk,usa</genre>
 		<video_guide></video_guide>
 		<video_preview></video_preview>
 	</extension>
