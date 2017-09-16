@@ -1,2 +1,2 @@
 # Repository: Polychroma
-The official Kodi repo for Polychroma, LLC.
+The official Kodi repo for TV Polychroma.
